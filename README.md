@@ -1,2 +1,5 @@
 # dio-desafio-primeiro-repositorio
-DIO - Desafio "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso"
+## DIO - Desafio "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso"
+
+- [README A](/folderA/README.md)
+- [README B](/folderB/README.md)
