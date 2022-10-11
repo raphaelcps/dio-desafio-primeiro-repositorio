@@ -3,3 +3,5 @@
 
 - [README A](/folderA/README.md)
 - [README B](/folderB/README.md)
+
+**[HTML version](https://raphaelcps.github.io/dio-desafio-primeiro-repositorio/root.html)**
