@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <tiltle>DIO - Desafio "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso"</title>
+    <title>DIO - Desafio "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso"</title>
 </head>
 <body>
     <article class="markdown-body entry-content container-lg" itemprop="text">
@@ -12,8 +12,8 @@
             DIO - Desafio "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso"
         </h2>
         <ul dir="auto">
-            <li><a href="/raphaelcps/dio-desafio-primeiro-repositorio/blob/main/folderA/index.html">README A</a></li>
-            <li><a href="/raphaelcps/dio-desafio-primeiro-repositorio/blob/main/folderB/index.html">README B</a></li>
+            <li><a href="/raphaelcps/dio-desafio-primeiro-repositorio/blob/main/folderA/">README A</a></li>
+            <li><a href="/raphaelcps/dio-desafio-primeiro-repositorio/blob/main/folderB/">README B</a></li>
         </ul>
     </article>
 </body>
